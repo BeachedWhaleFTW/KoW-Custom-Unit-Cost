@@ -1,0 +1,48 @@
+Army Name, Army Allegiance, Unit Name, Unit Type, Unit Size, Sp, Me, Ra, De, Att, Ne, Pts, Special
+Undead Armies, Evil, Skeleton Warriors, Infantry, Troop, 5, 5, 0, 4, 10, 0/12, 65, Shambling; Lifeleech (1)
+Undead Armies, Evil, Skeleton Warriors, Infantry, Regiment, 5, 5, 0, 4, 12, 0/16, 90, Shambling; Lifeleech (1)
+Undead Armies, Evil, Skeleton Warriors, Infantry, Horde, 5, 5, 0, 4, 25, 0/23, 150, Shambling; Lifeleech (1)
+Undead Armies, Evil, Skeleton Archers, Infantry, Troop, 5, 6, 5, 3, 8, 0/12, 75, Bows; Shambling; Lifeleech (1)
+Undead Armies, Evil, Skeleton Archers, Infantry, Regiment, 5, 6, 5, 3, 10, 0/16, 100, Bows; Shambling; Lifeleech (1)
+Undead Armies, Evil, Skeleton Archers, Infantry, Horde, 5, 6, 5, 3, 20, 0/23, 165, Bows; Shambling; Lifeleech (1)
+Undead Armies, Evil, Skeleton Spearmen, Infanty, Troop, 5, 5, 0, 4, 10, 0/12, 75, Phalanx; Shambling; Lifeleech (1)
+Undead Armies, Evil, Skeleton Spearmen, Infanty, Regiment, 5, 5, 0, 4, 15, 0/16, 105, Phalanx; Shambling; Lifeleech (1)
+Undead Armies, Evil, Skeleton Spearmen, Infanty, Horde, 5, 5, 0, 4, 30, 0/23, 175, Phalanx; Shambling; Lifeleech (1)
+Undead Armies, Evil, Ghouls, Infantry, Troop, 6, 4, 0, 3, 10, 8/10, 65, Lifeleech (1) 
+Undead Armies, Evil, Ghouls, Infantry, Regiment, 6, 4, 0, 3, 12, 12/14, 90, Lifeleech (1) 
+Undead Armies, Evil, Ghouls, Infantry, Horde, 6, 4, 0, 3, 25, 19/21, 150, Lifeleech (1) 
+Undead Armies, Evil, Soul Reaver Infantry, Infantry, Troop, 6, 3, 0, 5, 20, 11/13, 180, Crushing Strength (2); Lifeleech (2)
+Undead Armies, Evil, Soul Reaver Infantry, Infantry, Regiment, 6, 3, 0, 5, 25, 15/17, 260, Crushing Strength (2); Lifeleech (2)
+Undead Armies, Evil, Soul Reaver Cavalry, Cavalry, Troop, 8, 3, 0, 6, 10, 12/14, 195, Crushing Strength (1); Lifeleech (2); Thunderous Charge (2)
+Undead Armies, Evil, Soul Reaver Cavalry, Cavalry, Troop, 8, 3, 0, 6, 20, 15/17, 300, Crushing Strength (1); Lifeleech (2); Thunderous Charge (2)
+Undead Armies, Evil, Revenants, Infantry, Troop, 5, 4, 0, 5, 10, 0/13, 85, Shambling; Lifeleech (2)
+Undead Armies, Evil, Revenants, Infantry, Regiment, 5, 4, 0, 5, 12, 0/17, 120, Shambling; Lifeleech (2)
+Undead Armies, Evil, Revenants, Infantry, Horde, 5, 4, 0, 5, 25, 0/24, 200, Shambling; Lifeleech (2)
+Undead Armies, Evil, Revenant Cavalry, Cavalry, Troop, 8, 4, 0, 5, 8, 0/14, 110, Shambling; Lifeleech (2); Thunderous Charge (2)
+Undead Armies, Evil, Revenant Cavalry, Cavalry, Regiment, 8, 4, 0, 5, 16, 0/17, 170, Shambling; Lifeleech (2); Thunderous Charge (2)
+Undead Armies, Evil, Wraiths, Infantry, Troop, 10, 4, 0, 6, 10, 0/12, 140, Crushing Strength (1); Fly; Shambling; Lifeleech (1)
+Undead Armies, Evil, Wraiths, Infantry, Regiment, 10, 4, 0, 6, 12, 0/16, 200, Crushing Strength (1); Fly; Shambling; Lifeleech (1)
+Undead Armies, Evil, Zombies, Infantry, Regiment, 5, 5, 0, 3, 15, 0/15, 80, Shambling; Lifeleech (1)
+Undead Armies, Evil, Zombies, Infantry, Horde, 5, 5, 0, 3, 30, 0/22, 130, Shambling; Lifeleech (1)
+Undead Armies, Evil, Zombies, Infantry, Legion, 5, 5, 0, 3, 40, 0/28, 190, Shambling; Lifeleech (1)
+Undead Armies, Evil, Mummies, Infantry, Troop, 5, 4, 0, 5, 10, 0/14, 120, Shambling; Lifeleech (1); Crushing Strength (2); Regeneration (5)
+Undead Armies, Evil, Mummies, Infantry, Regiment, 5, 4, 0, 5, 12, 0/18, 170, Shambling; Lifeleech (1); Crushing Strength (2); Regeneration (5)
+Undead Armies, Evil, Zombie Trolls, Large Infantry, Regiment, 6, 4, 0, 4, 9, 0/15, 115, Shambling; Lifeleech (1); Crushing Strength (2)
+Undead Armies, Evil, Zombie Trolls, Large Infantry, Horde, 6, 4, 0, 4, 18, 0/18, 175, Shambling; Lifeleech (1); Crushing Strength (2)
+Undead Armies, Evil, Werewolves, Large Infantry, Regiment, 9, 3, 0, 5, 9, 12/14, 160, Lifeleech (1); Crushing Strength (1); Nimble
+Undead Armies, Evil, Werewolves, Large Infantry, Horde, 9, 3, 0, 5, 18, 15/17, 245, Lifeleech (1); Crushing Strength (1); Nimble
+Undead Armies, Evil, Revenant King, Hero(Inf), 1, 5, 4, 0, 5, 5, 14/16, 120, Lifeleech (1); Crushing Strength (1); Individual; Inspiring; Surge (6)
+Undead Armies, Evil, Revenant King on Undead Wyrm, Hero(Mon), 1, 7, 4, 0, 5, 9, 18/20, 190, Lifeleech (1); Crushing Strength (3); Inspiring; Surge (6)
+Undead Armies, Evil, Wights, Large Infantry, Regiment, 6, 4, 0, 5, 9, 0/14, 155, Lifeleech (1); Brutal; Crushing Strength (3); Shambling
+Undead Armies, Evil, Wights, Large Infantry, Horde, 6, 4, 0, 5, 18, 0/17, 235, Lifeleech (1); Brutal; Crushing Strength (3); Shambling
+Undead Armies, Evil, Undead Army Standard Bearer, Hero(Inf), 1, 5, 5, 0, 4, 1, -/13, 50, Lifeleech (1); Individual; Inspiring; Shambling
+Undead Armies, Evil, Balefire Catapult, War Engine, 1, 5, 0, 5, 4, 1, 0/11, 100, Blast (D6+2); Indirect Fire; Piercing (2); Reload!; Shambling; Vicious
+Undead Armies, Evil, Cursed Pharaoh, Hero(Inf), 1, 5, 3, 0, 6, 5, 15/17, 145, Lifeleech (1); Crushing Strength (2); Individual; Inspiring; Surge (6); Regeneration (5)
+Undead Armies, Evil, Vampire on Undead Pegasus, Hero(Lrg Cav), 1, 10, 3, 0, 5, 8, 14/16, 245, Lifeleech (2); Crushing Strength (2); Fly; Inspiring; Surge (3)
+Undead Armies, Evil, Vampire Lord, Hero(Inf), 1, 7, 3, 0, 6, 8, 14/16, 220, Lifeleech (2); Crushing Strength (2); Individual; Inspiring; Surge (3)
+Undead Armies, Evil, Vampire on Undead Dragon, Hero(Mon), 1, 10, 3, 0, 5, 10, 17/19, 330, Breath Attack (10); Crushing Strength (3); Fly; Inspiring; Lifeleech (2); Surge (3)
+Undead Armies, Evil, Lykanis, Hero(Inf), 1, 9, 3, 0, 5, 5, 13/15, 145, Lifeleech (1); Crushing Strength (2); Inspiring; Nimble
+Undead Armies, Evil, Lady Ilona [1], Hero(Inf), 1, 8, 3, 0, 6, 8, 14/16, 280, Crushing Strength (3); Heal (3); Individual; Inspiring; Lifeleech (2); Lightning Bolt (3); Surge (3)
+Undead Armies, Evil, Liche King, Hero(Inf), 1, 5, 5, 0, 4, 1, 14/16, 145, Individual; Inspiring; Regeneration (5); Surge (12)
+Undead Armies, Evil, Necromancer, Hero(Inf), 1, 5, 5, 0, 4, 1, 10/12, 85, Lifeleech (1); Individual; Surge (8)
+Undead Armies, Evil, Mhorgoth the Faceless [1], Hero(Inf), 1, 10, 4, 0, 6, 1, 17/19, 270, Bane-chant (4); Fireball (15); Fly; Heal (6); Individual; Lightning Bolt (6); Regeneration (5); Surge (12); Very Inspiring; Lifeleech (1)
