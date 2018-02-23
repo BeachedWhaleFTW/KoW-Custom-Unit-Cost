@@ -35,7 +35,7 @@ Undead Armies, Evil, Revenant King, Hero(Inf), 1, 5, 4, 0, 5, 5, 14/16, 120, Lif
 Undead Armies, Evil, Revenant King on Undead Wyrm, Hero(Mon), 1, 7, 4, 0, 5, 9, 18/20, 190, Lifeleech (1); Crushing Strength (3); Inspiring; Surge (6)
 Undead Armies, Evil, Wights, Large Infantry, Regiment, 6, 4, 0, 5, 9, 0/14, 155, Lifeleech (1); Brutal; Crushing Strength (3); Shambling
 Undead Armies, Evil, Wights, Large Infantry, Horde, 6, 4, 0, 5, 18, 0/17, 235, Lifeleech (1); Brutal; Crushing Strength (3); Shambling
-Undead Armies, Evil, Undead Army Standard Bearer, Hero(Inf), 1, 5, 5, 0, 4, 1, -/13, 50, Lifeleech (1); Individual; Inspiring; Shambling
+Undead Armies, Evil, Undead Army Standard Bearer, Hero(Inf), 1, 5, 5, 0, 4, 1, 0/13, 50, Lifeleech (1); Individual; Inspiring; Shambling
 Undead Armies, Evil, Balefire Catapult, War Engine, 1, 5, 0, 5, 4, 1, 0/11, 100, Blast (D6+2); Indirect Fire; Piercing (2); Reload!; Shambling; Vicious
 Undead Armies, Evil, Cursed Pharaoh, Hero(Inf), 1, 5, 3, 0, 6, 5, 15/17, 145, Lifeleech (1); Crushing Strength (2); Individual; Inspiring; Surge (6); Regeneration (5)
 Undead Armies, Evil, Vampire on Undead Pegasus, Hero(Lrg Cav), 1, 10, 3, 0, 5, 8, 14/16, 245, Lifeleech (2); Crushing Strength (2); Fly; Inspiring; Surge (3)
