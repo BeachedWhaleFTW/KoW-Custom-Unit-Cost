@@ -17,5 +17,7 @@ A couple of notes when formatting the .csv files:
 - any 'Inspiring(unit_type)' should input as just 'Inspiring'
 - unique or legendary units should input as 'Unit Name [1]'
 - special traits should be separated by ';' delimiters and all other values ','
+- random values such as D6+2 should be added as their expected value. D6 expected value is 3.5 so "Blast (D6+2)" would be "Blast (5.5)"
+- values that reference other values such as "Breath Attack(att)" should include the numerical value of the 'att' instead of reference.
 
 If any other oddities appear, feel free to drop a note of how it was handled so it can be added to this section for future reference
