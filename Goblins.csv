@@ -1,0 +1,36 @@
+Army Name, Army Allegiance, Unit Name, Unit Type, Unit Size, Sp, Me, Ra, De, Att, Ne, Pts, Special
+Goblins, Evil, Sharpsticks,Infantry, Regiment, 5, 5, 0, 4, 15, 12/14, 95, Phalanx; Yellow-Bellied
+Goblins, Evil, Sharpsticks,Infantry, Horde, 5, 5, 0, 4, 15, 19/21, 155, Phalanx; Yellow-Bellied
+Goblins, Evil, Sharpsticks,Infantry, Legion, 5, 5, 0, 4, 15, 25/27, 230, Phalanx; Yellow-Bellied
+Goblins, Evil, Rabble, Infantry, Regiment, 5, 5, 0, 4, 12, 12/14, 75, Yellow-Bellied
+Goblins, Evil, Rabble, Infantry, Horde, 5, 5, 0, 4, 25, 19/21, 125, Yellow-Bellied
+Goblins, Evil, Rabble, Infantry, Legion, 5, 5, 0, 4, 30, 25/27, 180, Yellow-Bellied
+Goblins, Evil, Spitters, Infantry, Regiment, 5, 6, 5, 3, 10, 12/14, 85, Bows (Range 24"); Yellow-Bellied 
+Goblins, Evil, Spitters, Infantry, Horde, 5, 6, 5, 3, 20, 19/21, 140, Bows (Range 24"); Yellow-Bellied
+Goblins, Evil, Trolls, Large Infantry, Regiment, 6, 4, 0, 5, 9, 11/14, 125, Crushing Strength (2); Regeneration (5)
+Goblins, Evil, Trolls, Large Infantry, Horde, 6, 4, 0, 5, 18, 14/17, 190, Crushing Strength (2); Regeneration (5)
+Goblins, Evil, Mawbeast Pack, Cavalry, Troop, 6, 3, 0, 3, 6, 9/11, 60, Crushing Strength (1); Height(1); Nimble; Vicious; Yellow-Bellied
+Goblins, Evil, Mawbeast Pack, Cavalry, Regiment, 6, 3, 0, 3, 12, 12/14, 95, Crushing Strength (1); Height(1); Nimble; Vicious; Yellow-Bellied
+Goblins, Evil, Fleabag Riders, Cavalry, Troop, 10, 4, 0, 4, 7, 9/11, 95, Nimble; Thunderous Charge (1), Yellow-Bellied
+Goblins, Evil, Fleabag Riders, Cavalry, Regiment, 10, 4, 0, 4, 14, 12/14, 145, Nimble; Thunderous Charge (1), Yellow-Bellied
+Goblins, Evil, Fleabag Riders, Cavalry, Horde, 10, 4, 0, 4, 28, 17/19, 255, Nimble; Thunderous Charge (1), Yellow-Bellied
+Goblins, Evil, Fleabag Rider Sniffs, Cavalry, Troop, 10, 5, 5, 3, 7, 9/11, 95, Bows (range 24"); Nimble; Yellow-Bellied
+Goblins, Evil, Fleabag Rider Sniffs, Cavalry, Regiment, 10, 5, 5, 3, 14, 12/14, 145, Bows (range 24"); Nimble; Yellow-Bellied
+Goblins, Evil, Fleabag Chariots, Large Cavalry, Regiment, 9, 4, 5, 4, 8, 10/12, 110, base Size: (50x100mm); Bows (Range 24"); Thunderous Charge (2); Yellow-Bellied
+Goblins, Evil, Fleabag Chariots, Large Cavalry, Horde, 9, 4, 5, 4, 16, 13/15, 170, base Size: (50x100mm); Bows (Range 24"); Thunderous Charge (2); Yellow-Bellied
+Goblins, Evil, Sharpstick Thrower, War Engine, (1), 5, 0, 5, 4, 2, 8/10, 55, Blast (D3); Piercing (2); Reload!; Yellow-Bellied
+Goblins, Evil, War Trumbone, War Engine, (1), 5, 0, 0, 4, 12, 8/10, 65, Breath Attack (12); Piercing (1); Yellow-Bellied
+Goblins, Evil, Big Rocks Thrower, War Engine, (1), 5, 0, 5, 4, 1, 8/10, 80, Blast (D6+2); Indirect Fire; Piercing (3); Reload!; Yellow-Bellied
+Goblins, Evil, King, Hero (Inf), (1), 5, 4, 4, 4, 5, 11/13, 90, Hero (inf); Bows (Range 24"); Individual; Yellow-Bellied;
+Goblins, Evil, King on Chariot, Hero (LrgCav), (1), 9, 4, 4, 5, 7, 13/15, 130, Hero (LrgCav; Base Size: (50x100mm); Bows (Range 24"); Insipiring; Thunderous Charge (2); Yellow-Bellied 
+Goblins, Evil, Flaggit, Hero (Inf), (1), 5, 6, 0, 4, 1, 8/10, 40, Hero (Inf); Individual; Inspiring; Yellow-Bellied
+Goblins, Evil, Biggit, Hero (Inf), (1), 5, 4, 4, 4, 3, 9/11, 60, Hero (Inf); Bows (Range 24"); Individual; Inspiring; Yellow-Bellied
+Goblins, Evil, Wiz, Hero (Inf), (1), 5, 5, 0, 4, 1, 9/11, 45, Hero (Inf); Lightning Bolt (3); Individual; Yellow-Bellied
+Goblins, Evil, Troll Bruiser, Hero (LrgInf), (1), 6, 3, 0, 5, 5, 12/15, 125, Hero (LrgInf); Crushing Strength (3); Nimble; Inspiring (Trolls Only); Regeneration (5)
+Goblins, Evil, Magwa & Jo'os [1], Hero (LrgCav), (1),6, 3, 0, 4, 4, 12/14, 110, Hero (LrgCav); Crushing Strength (2); Base Size: (50x100mm); Lightning Bolt (4); Vicious; Inspiring; Individual; Yellow-Bellied
+Goblins, Evil, Magwa'ns, Infantry, Troop, 6, 3, 0, 3, 6, 9/11, 60, Crushing Strength (1); Height(1); Nimble; Vicious; Yellow-Bellied
+Goblins, Evil, Magwa'ns, Infantry, Regiment, 6, 3, 0, 3, 12, 12/14, 95, Crushing Strength (1); Height(1); Nimble; Vicious; Yellow-Bellied
+Goblins, Evil, Mincer, Monster, (1), 5, 4, 0, 4, (D6+6), 9/11, 80, Base Size: (50x100mm); Big Shield; Brutal; Height (3); Thunderous Charge (3); Yellow-Bellied
+Goblins, Evil, Giant, Monster, (1), 7, 4, 0, 5, (D6+6), 17/19, 190, Brutal; Crushing Strength (3); Fury; Strider
+Goblins, Evil, Slasher, (1), 7, 4, 0, 5, 8, 14/16, 165, Crushing Strength (2); Thunderous Charge (1)
+
