@@ -26,7 +26,7 @@ Goblins, Evil, King on Chariot, Hero (LrgCav), (1), 9, 4, 4, 5, 7, 13/15, 130, H
 Goblins, Evil, Flaggit, Hero (Inf), (1), 5, 6, 0, 4, 1, 8/10, 40, Hero (Inf); Individual; Inspiring; Yellow-Bellied
 Goblins, Evil, Biggit, Hero (Inf), (1), 5, 4, 4, 4, 3, 9/11, 60, Hero (Inf); Bows (Range 24"); Individual; Inspiring; Yellow-Bellied
 Goblins, Evil, Wiz, Hero (Inf), (1), 5, 5, 0, 4, 1, 9/11, 45, Hero (Inf); Lightning Bolt (3); Individual; Yellow-Bellied
-Goblins, Evil, Troll Bruiser, Hero (LrgInf), (1), 6, 3, 0, 5, 5, 12/15, 125, Hero (LrgInf); Crushing Strength (3); Nimble; Inspiring (Trolls Only); Regeneration (5)
+Goblins, Evil, Troll Bruiser, Hero (LrgInf), (1), 6, 3, 0, 5, 5, 12/15, 125, Hero (LrgInf); Crushing Strength (3); Nimble; Inspiring; Regeneration (5)
 Goblins, Evil, Magwa & Jo'os [1], Hero (LrgCav), (1),6, 3, 0, 4, 4, 12/14, 110, Hero (LrgCav); Crushing Strength (2); Base Size: (50x100mm); Lightning Bolt (4); Vicious; Inspiring; Individual; Yellow-Bellied
 Goblins, Evil, Magwa'ns, Infantry, Troop, 6, 3, 0, 3, 6, 9/11, 60, Crushing Strength (1); Height(1); Nimble; Vicious; Yellow-Bellied
 Goblins, Evil, Magwa'ns, Infantry, Regiment, 6, 3, 0, 3, 12, 12/14, 95, Crushing Strength (1); Height(1); Nimble; Vicious; Yellow-Bellied
